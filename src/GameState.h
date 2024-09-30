@@ -1,0 +1,6 @@
+enum GameState {
+  NOT_BEGUN,
+  INPROGRESS,
+  PAUSED,
+  FINISHED
+};
