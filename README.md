@@ -2,4 +2,4 @@
 
 ## A simple chess clock design, and developed using custom made circuit board. ##
 
-###In continuous development.###
+#In continuous development.#
